@@ -7,6 +7,10 @@ The dataset Consist two columns:- Salary and Years.
 
 Salary is represented salary of a person and Years are represented years of experience of a person.
 
+For Salary Prediction, We need to find relationship in data on how salary is determined.
+
+For The Task, We need to have a dataset based on salaries. I found a dataset that contains data about how job experience affects salary.
+
 
 By using regression analysis, I maked a linear relationship between salary and job experience in which if any employee has more job experience results in a higher salary.
 
