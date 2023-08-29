@@ -2,8 +2,10 @@
 The goal of this project is to create a model that predicts employee salaries based on years of experience using data transformation and machine learning.
 
 Dataset description:- The dataset is randomly created to show you how we can use machine learning techniques and build a linear regression model to predict the salary of an employee based on years of experience.
+
 The dataset Consist two columns:- Salary and Years.
 ● Salary is represented salary of a person and Years are represented years of experience of a person.
+
 ● By using regression analysis, I maked a linear relationship between salary and job experience in which if any employee has more job experience results in a higher salary.
 # Problem
 Say a company's HR department wants you to build a model to predict new hire salaries based on company data. .csv file shows the data needed to train and test the model.
